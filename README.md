@@ -21,5 +21,4 @@ We reserve the right to make changes to this Privacy Policy at any time and for 
 
 7. Contact Us
 If you have questions or comments about this Privacy Policy, please contact us.
-
-This is a basic privacy policy and might not include all necessary sections for your specific app or region. It’s always a good idea to consult with a legal expert when drafting a privacy policy.
+cj.ras@hotmail.com
