@@ -1,5 +1,5 @@
 # pantryPrivacyPol
-host the privacy policy for my app
+
 Privacy Policy for My Pantry Journal
 1. Introduction
 Welcome to My Pantry Journal. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application. Please read this Privacy Policy carefully. If you do not agree with the terms of this privacy policy, please do not access the application.
